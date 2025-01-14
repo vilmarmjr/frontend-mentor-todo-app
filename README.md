@@ -4,6 +4,6 @@
 
 # Frontend Mentor - Todo app
 
-This is a [Frontend Mentor](https://www.frontendmentor.io) todo-list app challenge. Practice purposes only. You can check it out on my [Github Pages](https://juniormendes96.github.io/frontend-mentor-todo-app).
+This is a [Frontend Mentor](https://www.frontendmentor.io) todo-list app challenge. Practice purposes only. You can check it out on my [Github Pages](https://vilmarmjr.github.io/frontend-mentor-todo-app).
 
 ![Design preview for the Todo app coding challenge](./public/design/desktop-preview.jpg)
